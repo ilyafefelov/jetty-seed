@@ -1,6 +1,8 @@
 # jetty-seed
 Starter code using Maven, Jetty and Jersey
+
 Builds a fat jar-with-dependencies using maven-shade-plugin
+
 Runs a jetty server on 8080 with a single resource
 
 # build
