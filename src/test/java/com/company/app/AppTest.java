@@ -1,4 +1,4 @@
-package com.openmarket.ids;
+package com.company.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
